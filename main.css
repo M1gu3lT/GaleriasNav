@@ -1,0 +1,29 @@
+.nav-enlace{
+    display: inline-block;
+    background: salmon;
+    color: #fff;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+
+.nav-enlace:hover{
+    background: rgb(212, 131, 25);
+}
+
+nav{
+    background: rgb(190, 202, 77);
+    padding: 10px;
+}
+
+p{
+    font-size: 45px;
+    color: rgb(255, 146, 3);
+    text-align: justify;
+    margin: 20px;
+}
+
+h1{
+    font-size: 50px;
+    color: rgb(181, 245, 6);
+    text-align: center;
+}
